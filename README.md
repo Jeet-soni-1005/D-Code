@@ -1,4 +1,4 @@
-# Survey Platform
+# D-CODE: One stop solution for getting the feedback from customer and decode the data
 
 ## Purpose:
 
