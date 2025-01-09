@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-  The purpose of this website is to provide a convenient and efficient platform for administrators to create customer surveys,     collect valuable feedback, and facilitate the generation of online reviews. By offering a user-friendly interface and essential   features such as authentication, input validation, and anti-bot measures, the website aims to streamline the process of survey    creation and response management. Through this platform, administrators can gain valuable insights from customers without 
+  The purpose of this website is to provide a convenient and efficient platform for administrators to create customer surveys,     collect valuable feedback, and facilitate the generation of online reviews. By offering a user-friendly interface and essential   features such as authentication and input validation, the website aims to streamline the process of survey    creation and response management. Through this platform, administrators can gain valuable insights from customers without 
  requiring them to create an account, enabling a broader participation base.
 
 ## Functionality / features:
